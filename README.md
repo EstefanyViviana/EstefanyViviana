@@ -1,64 +1,66 @@
-# Hola, soy Estefany Castillo 👋
+# Hi, I'm Estefany Castillo
 
-### Ingeniera de Telecomunicaciones | Especialista en Seguridad Informática
+### Telecommunications Engineer | Information Security Specialist
 
-Ingeniera de Telecomunicaciones y Especialista en Seguridad de la Información con experiencia en administración de redes empresariales, mantenimiento de infraestructura TI y controles de seguridad. Habilidad en monitoreo con Zabbix, análisis de protocolos (Wireshark), configuración de firewall/ACL y escalamiento de incidentes L2 bajo estándares ISO 27001. Certificada en Google Cybersecurity y Microsoft Security, en transición hacia operaciones NOC/SOC, administración de redes o análisis de seguridad.
+**🌐 Language:** **English** · [Español](https://github.com/EstefanyViviana/EstefanyViviana/blob/main/README.es.md)
 
----
-
-## 🚀 Sobre mí
-
-- 🔐 Enfocada en **Ciberseguridad**, operaciones **NOC/SOC** y **administración de redes**.
-- 🌱 Actualmente cursando la **Especialización en Seguridad de la Información** (2026).
-- 📡 Experiencia en monitoreo, protocolos y control de accesos en entornos empresariales.
-- 📫 Contacto: **vmejia7@outlook.com**
+Telecommunications Engineer and Information Security Specialist with hands-on experience in enterprise network administration, IT infrastructure maintenance, and security controls. Skilled in Zabbix monitoring, protocol analysis (Wireshark), firewall/ACL configuration, and L2 incident escalation under ISO 27001 standards. Certified in Google Cybersecurity and Microsoft Security, actively transitioning my technical background into NOC/SOC Operations, Network Administration, or Security Analysis.
 
 ---
 
-## 🛠️ Habilidades
+## 🚀 About Me
 
-**Ciberseguridad y Operaciones SOC**
-`SIEM` · `ISO 27001 / SGSI` · `Criptografía Simétrica / Asimétrica` · `BLAKE3`
+- 🔐 Focused on **Cybersecurity**, **NOC/SOC Operations** and **Network Administration**.
+- 🌱 Currently pursuing a **Postgraduate Specialization in Information Security** (2026).
+- 📡 Experience in monitoring, protocol analysis and access control in enterprise environments.
+- 📫 Contact: **vmejia7@outlook.com**
 
-**Infraestructura de Red y Operaciones NOC**
+---
+
+## 🛠️ Skills
+
+**Cybersecurity & SOC Operations**
+`SIEM` · `ISO 27001 / ISMS` · `Symmetric/Asymmetric Cryptography` · `BLAKE3`
+
+**Network Infrastructure & NOC Operations**
 `Zabbix` · `LAN/WLAN` · `Firewalls` · `ACLs` · `802.1X` · `MAC Binding` · `Wireshark`
 
-**Cloud y Gestión de Identidades**
+**Cloud & Identity Management**
 `GCP` · `GKE` · `Azure Security` · `Microsoft Entra ID` · `Microsoft Purview`
 
-**Desarrollo y Bases de Datos**
+**Development & Databases**
 `Python 3.14` · `Bash` · `Oracle DB 19c` · `SQL` · `Git`
 
 ---
 
-## 💼 Experiencia Profesional
+## 💼 Professional Experience
 
-**Especialista en Infraestructura, Redes y Seguridad de la Información**
-`Agencia Nacional de Infraestructura` · Ago 2026 – Dic 2026
-Administración, operación y monitoreo proactivo de LAN, WLAN y seguridad empresarial mediante Zabbix; clasificación de anomalías y escalamiento L2. Mantenimiento preventivo/correctivo bajo ISO 27001 y protocolos GTEC.
+**Infrastructure, Network & Information Security Specialist**
+`Agencia Nacional de Infraestructura` · Aug 2026 – Dec 2026
+Administered, operated and proactively monitored enterprise LAN, WLAN and security via Zabbix, triaging anomalies and executing L2 escalations. Preventive/corrective maintenance under ISO 27001 and GTEC protocols.
 
-**Administradora de Sistemas Funcionales y Preservación Digital**
-`Agencia Nacional de Infraestructura` · Ene 2023 – Jul 2026
-Gestión de usuarios, permisos RBAC y perfiles en ORFEO DMS; resolución de incidentes y ejecución de solicitudes de cambio. Verificación de integridad de contenido digital y cadena de custodia.
+**Functional Systems Administrator & Digital Preservation Specialist**
+`Agencia Nacional de Infraestructura` · Jan 2023 – Jul 2026
+Managed user creation, RBAC permissions and profiles in ORFEO DMS; resolved incidents and executed change requests. Verified digital content integrity, media formats and chain of custody.
 
-**Soporte Técnico e Ingeniería de Infraestructura L1/L2**
-`Agencia Nacional de Infraestructura` · Dic 2017 – Dic 2022
-Gestión de incidentes Help Desk (L1/L2), parcheo de software, mantenimiento de hardware e inventario de activos TI.
+**L1/L2 Technical Support & Infrastructure Engineer**
+`Agencia Nacional de Infraestructura` · Dec 2017 – Dec 2022
+Managed Help Desk incidents (L1/L2), performed software patching, hardware maintenance and IT asset inventory tracking.
 
-**Experiencia Técnica Inicial**
-`SUMIMAS S.A.S. & ICOTEC COLOMBIA S.A.S. para MOVISTAR` · Abr 2014 – May 2016
-Infraestructura de impresión empresarial, solución de fallas de red, resolución de fallas L1 y gestión de puertos DSLAM.
-
----
-
-## 🎓 Educación
-
-- **Especialización en Seguridad de la Información** *(En curso)* — Institución Universitaria Politécnico Grancolombiano · 2026
-- **Ingeniería de Telecomunicaciones** — Institución Universitaria Politécnico Grancolombiano · 2021 – 2024
+**Early Technical Experience**
+`SUMIMAS S.A.S. & ICOTEC COLOMBIA S.A.S. for MOVISTAR` · Apr 2014 – May 2016
+Enterprise print infrastructure, network troubleshooting, L1 fault resolution, cross-connects and DSLAM port management.
 
 ---
 
-## 📜 Certificaciones
+## 🎓 Education
+
+- **Postgraduate Specialization in Information Security** *(In Progress)* — Institución Universitaria Politécnico Grancolombiano · 2026
+- **Telecommunications Engineer** — Institución Universitaria Politécnico Grancolombiano · 2021 – 2024
+
+---
+
+## 📜 Certificates
 
 - 🏅 Microsoft Certified: Security, Compliance, and Identity Fundamentals
 - ☁️ Google Cloud Fundamentals: Core Infrastructure
@@ -68,14 +70,14 @@ Infraestructura de impresión empresarial, solución de fallas de red, resoluci�
 
 ---
 
-## 🌐 Idiomas
+## 🌐 Languages
 
-- Español (Nativo)
-- Inglés (B1)
+- Spanish (Native)
+- English (B1)
 
 ---
 
-## 📫 Conéctate conmigo
+## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Estefany%20Castillo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ingestefany)
 [![Email](https://img.shields.io/badge/Email-vmejia7%40outlook.com-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:vmejia7@outlook.com)
@@ -85,3 +87,4 @@ Infraestructura de impresión empresarial, solución de fallas de red, resoluci�
 <p align="center">
   <i>NOC/SOC Operations · Network Administration · Security Analysis</i>
 </p>
+
